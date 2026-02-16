@@ -63,17 +63,7 @@ Full-stack ML analytics platform using FastAPI, DuckDB, and React to identify ad
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Krishna-3101&show_icons=true&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishna-3101&layout=compact&theme=radical&hide_border=true" />
-</p>
-
----
 
 ## 🧠 Currently Exploring
 
